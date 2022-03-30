@@ -1,0 +1,11 @@
+#card-img {
+  width: 200px;
+}
+.card {
+  width: 300px;
+}
+
+.mini-cards {
+  display: flex;
+  justify-content: space-around;
+}
